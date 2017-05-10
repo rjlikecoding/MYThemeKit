@@ -10,7 +10,7 @@
 #import "MYThemeManager.h"
 #import "MYThemeConst.h"
 #import "UIColor+init.h"
-#import "SONetworkHelper.h"
+
 
 @interface MYThemeManager ()
 @property (nonatomic,strong) NSDictionary *colorConfigDic;
@@ -60,7 +60,7 @@
 - (void)setThemeType:(NSString *)themeType
 {
     _themeType = themeType;
-    [AFHTTPSessionManager updateHTTPHeadField];
+    
      if([themeType isEqualToString:ThemeType_Normal])
      {
      NSLog(@"changeToNormal");
