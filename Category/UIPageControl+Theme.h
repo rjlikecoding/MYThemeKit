@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "MYThemeKit.h"
 @interface UIPageControl (Theme)
 
 - (void)my_setupDefaultTheme;
