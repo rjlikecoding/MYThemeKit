@@ -21,3 +21,4 @@
 #import "UITextField+Theme.h"
 #import "UITextView+Theme.h"
 #import "UIPageControl+Theme.h"
+#import "NSObject+Theme.h"

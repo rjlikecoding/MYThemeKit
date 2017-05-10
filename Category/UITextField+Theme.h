@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "MYThemeKit.h"
 @interface UITextField (Theme)
 
 - (void)my_setNormalTextColor;

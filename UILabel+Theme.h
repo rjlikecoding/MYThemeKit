@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "MYThemeKit.h"
 @interface UILabel (Theme)
 - (void)my_setGrayText; //设置浅色文字颜色
 - (void)my_setNormalText; //设置正常文字颜色 配置表格默认为正常文字颜色

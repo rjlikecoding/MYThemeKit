@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "MYThemeKit.h"
 @interface UITabBar (Theme)
 - (void)setTabBarGray;
 @end

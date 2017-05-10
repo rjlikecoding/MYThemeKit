@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "MYThemeKit.h"
 @interface UITableView (Theme)
 -(void)my_setSeperatorGrayColor;
 @end
