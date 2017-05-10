@@ -10,6 +10,7 @@
 #import "MYThemeManager.h"
 #import "MYThemeConst.h"
 #import "UIColor+init.h"
+#import "NSObject+Theme.h"
 //#import "SONetworkHelper.h"
 
 @interface MYThemeManager ()
