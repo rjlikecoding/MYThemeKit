@@ -83,7 +83,7 @@
 
 - (void)my_setImageTintRenderModeWithName:(NSString *)imageName
 {
-    NSArray *tintColor = @[[NSNull null],RGBA(0.3, 0.3, 0.3, 0.4)];
+    NSArray *tintColor = @[[NSNull null],[UIColor colorWithRed:0.3 green:0.3 blue:0.2 alpha:0.4]];
     [self my_setImageWithName:imageName tintColors:tintColor];
     
 }
