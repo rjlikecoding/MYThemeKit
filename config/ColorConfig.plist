@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>btnBgBlue2Night</key>
+	<string>#3c5567</string>
+	<key>btnBgBlue2</key>
+	<string>#64bdeb</string>
+	<key>btnBgBlueNight</key>
+	<string>#3c5567</string>
+	<key>btnBgBlue</key>
+	<string>#4db0fb</string>
+	<key>home_bgViewNight</key>
+	<string>#334144</string>
+	<key>home_bgView</key>
+	<string>#F4F3F8</string>
+	<key>bgWhite</key>
+	<string>#ffffff</string>
+	<key>bgWhiteNight</key>
+	<string>#344044</string>
+	<key>bgGray</key>
+	<string>#ededed</string>
+	<key>bgGrayNight</key>
+	<string>#2b3640</string>
+	<key>textNormal</key>
+	<string>#3f3e3e</string>
+	<key>textNormalNight</key>
+	<string>#676767</string>
+	<key>textGray</key>
+	<string>#aaa9a9</string>
+	<key>textGrayNight</key>
+	<string>#5a5a5a</string>
+	<key>blue</key>
+	<string>#098ef4</string>
+	<key>blueNight</key>
+	<string>#222b2d</string>
+	<key>textWhite</key>
+	<string>#ffffff</string>
+	<key>textWhiteNight</key>
+	<string>#434343</string>
+	<key>black</key>
+	<string>#000000</string>
+	<key>blackNight</key>
+	<string>#7c7c7c</string>
+	<key>lightBlue</key>
+	<string>#50b3ff</string>
+	<key>lightBlueNight</key>
+	<string>#31333a</string>
+	<key>lightBlue2</key>
+	<string>#71ccee</string>
+	<key>lightBlue2Night</key>
+	<string>#538EA9</string>
+	<key>sepColor</key>
+	<string>#e4e3e3</string>
+	<key>sepColorNight</key>
+	<string>#222222</string>
+	<key>expandText</key>
+	<string>#ff7200</string>
+	<key>expandTextNight</key>
+	<string>#a47046</string>
+</dict>
+</plist>
