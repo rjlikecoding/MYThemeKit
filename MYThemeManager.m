@@ -10,7 +10,7 @@
 #import "MYThemeManager.h"
 #import "MYThemeConst.h"
 #import "UIColor+init.h"
-
+//#import "SONetworkHelper.h"
 
 @interface MYThemeManager ()
 @property (nonatomic,strong) NSDictionary *colorConfigDic;
@@ -60,7 +60,7 @@
 - (void)setThemeType:(NSString *)themeType
 {
     _themeType = themeType;
-    
+    //[AFHTTPSessionManager updateHTTPHeadField];
      if([themeType isEqualToString:ThemeType_Normal])
      {
      NSLog(@"changeToNormal");
@@ -155,7 +155,7 @@
  */
 - (NSArray *)getNightTintColorArray
 {
-    return @[[NSNull null], RGBA(0.4, 0.4, 0.4, 0.4)];
+    return @[[NSNull null], [UIColor colorWithRed:0.4 green:0.4 blue:0.4 alpha:0.4]];
 }
 
 

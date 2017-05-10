@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "MYThemeKit.h"
+#import "MYThemeManager.h"
 @interface NSObject (Theme)
 @property (nonatomic,strong,readonly) MYThemeManager *themeManager;
 @property (nonatomic,strong) NSString *objType; //确定对象类型，用于从配置文件中读取配置信息
